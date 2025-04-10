@@ -46,23 +46,23 @@ function App() {
 
       <div className='App'>
         <Routes>
-          <Route path="/" element={<SignUp />} />
-          <Route path="/home" element={<FrontPage />} />
-          <Route path="/about" element={<About /> } />
-          <Route path="/notes" element={<Notes /> } />
-          <Route path="/CSCluster" element={<CSCluster /> } />
-          <Route path="/MECluster" element={ <MECluster/>} />
-          <Route path="/ECCluster" element={ <ECCluster/>} />
-          <Route path="/Tnc" element={<Tnc/>} />
-          <Route path="/PrivacyPolicy" element={<PrivacyPolicy /> } />
-          <Route path="/Contact" element={<Contact />} />
-          <Route path="/pyq" element={ <PYQ />} />
-          <Route path="/lab" element={ <Lab/> } />
-          <Route path="/pyq2" element={<PYQ2ndYear/> } />
-          <Route path="/CSE2" element={<CSE2 />} />
-          <Route path="/ECE2" element={<ECE2 />} />
-          <Route path="/ISE2" element={<ISE2 /> }/>
-          <Route path="/ETE2" element={ <ETE2 />} />
+          <Route path="/noaccess" element={<SignUp />} />
+          // <Route path="/home" element={<FrontPage />} />
+          // <Route path="/about" element={<About /> } />
+          // <Route path="/notes" element={<Notes /> } />
+          // <Route path="/CSCluster" element={<CSCluster /> } />
+          // <Route path="/MECluster" element={ <MECluster/>} />
+          // <Route path="/ECCluster" element={ <ECCluster/>} />
+          // <Route path="/Tnc" element={<Tnc/>} />
+          // <Route path="/PrivacyPolicy" element={<PrivacyPolicy /> } />
+          // <Route path="/Contact" element={<Contact />} />
+          // <Route path="/pyq" element={ <PYQ />} />
+          // <Route path="/lab" element={ <Lab/> } />
+          // <Route path="/pyq2" element={<PYQ2ndYear/> } />
+          // <Route path="/CSE2" element={<CSE2 />} />
+          // <Route path="/ECE2" element={<ECE2 />} />
+          // <Route path="/ISE2" element={<ISE2 /> }/>
+          // <Route path="/ETE2" element={ <ETE2 />} />
 
           
           
